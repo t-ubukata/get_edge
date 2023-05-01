@@ -13,12 +13,12 @@ Makes edge images from jpg images.
 
 ```
 pip3 install numpy opencv-python
+git clone https://github.com/t-ubukata/make_edge.git
 ```
 
 ## Usage
 
 ```
-git clone https://github.com/t-ubukata/make_edge.git
 cd make_edge
 ```
 
