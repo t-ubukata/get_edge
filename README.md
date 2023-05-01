@@ -29,5 +29,3 @@ Put images in data/org/ and run
 ```
 
 Then edge images are in data/edge/ and org & data pair images in data/org_edge_pair/
-### `npm start`
-
