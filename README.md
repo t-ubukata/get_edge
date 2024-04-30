@@ -1,6 +1,6 @@
-# make_edge
+# get_edge
 
-Makes edge images from jpg images.
+Gets edge images from jpg images.
 
 ## Installation
 
@@ -13,19 +13,15 @@ Makes edge images from jpg images.
 
 ```
 pip3 install numpy opencv-python
-git clone https://github.com/t-ubukata/make_edge.git
+git clone https://github.com/t-ubukata/get_edge.git
 ```
 
 ## Usage
 
-```
-cd make_edge
-```
-
 Put images in data/org/ and run
 
 ```
-./make_edge.py
+./get_edge.py
 ```
 
 Then edge images are in data/edge/ and org & data pair images in data/org_edge_pair/
